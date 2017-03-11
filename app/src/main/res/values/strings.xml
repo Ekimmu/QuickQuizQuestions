@@ -1,0 +1,43 @@
+<resources>
+    <!-- information related to the first answer [] correct answer is D: Black -->
+    <string name="question1">1:  The textColor in this question is?</string>
+    <string name="AQ1">A: Blue</string>
+    <string name="BQ1">B: Green</string>
+    <string name="CQ1">C: Red</string>
+    <string name="DQ1">D: Black</string>
+
+    <!-- information related to the second answer [] correct answer is True -->
+    <string name="question2">2: Can you answer this question ?</string>
+
+    <!-- information related to the third answer [] correct answer is B: September 17,1991 -->
+    <string name="question3">3:  When was Linux initially released ?</string>
+    <string name="AQ3">A: March 13, 1987</string>
+    <string name="BQ3">B: September 17, 1991</string>
+    <string name="CQ3">C: October 7, 1964</string>
+    <string name="DQ3">D: Augast 12, 1978</string>
+
+    <!-- information related to the fourth answer [] correct answer is True   -->
+    <string name="question4">4: Did the Chicago Cubs win the World Series in 2016 ?</string>
+
+    <!-- information related to the fifth answer [] correct answer is all boxes are check user
+        score 4 points -->
+    <string name="question5">5: Check all that apply?</string>
+    <string name="AQ5">A: Check</string>
+    <string name="BQ5">B: all</string>
+    <string name="CQ5">C: that</string>
+    <string name="DQ5">D: apply?</string>
+
+    <!-- information related to the sixth answer [] there is no correct answer the user still
+        scores a point -->
+    <string name="question7">6: Please can you enter your name ?</string>
+
+    <!-- information related to the misc strings  -->
+    <string name="app_name">Quick Quiz Questions</string>
+    <string name="text_true">True</string>
+    <string name="text_false">False</string>
+    <string name="score">Score</string>
+    <string name="thanks">Well played</string>
+    <string name="answer">Answer</string>
+
+</resources>
+
